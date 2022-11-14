@@ -1,4 +1,4 @@
-#Express-Note-Taker
+# Express-Note-Taker
     
 ## Description
 To develop this project, I started with some code that was the basic frame of a note taking website. I made the website functional by providing middleware and get routes. This connected the written javascript to the server and pushed the application to correctly deploy javascript functions when prompted with a click on the page. Server routes allow users to run an application locally on their machines. Routes also allow the application to access information stored in a database. To deploy this application, I used Heroku, which displays backend applications.
