@@ -1,12 +1,9 @@
 {
-  "dependencies": {
-    "heroku": "^7.66.1"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  }
+	"dependencies": {
+		"heroku": "^7.66.1",
+    "express": "^4.16.4"
+	},
+	"scripts": {
+		"start": "node Develop/server.js"
+	}
 }
-
