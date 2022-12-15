@@ -13,7 +13,8 @@ const db = require('./db/db.json')
 const { v4: uuidv4 } = require('uuid');
 const { json } = require('express');
 
-
+const apiRoutes = require('./routes/apiRoutes');
+const htmlRoutes = require('./routes/htmlRoutes');
 
 const app = express();
 
